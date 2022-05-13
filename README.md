@@ -10,4 +10,4 @@
 #### Foi usados recursos básicos para a responsividade em telas mobile. Não usei media query, que seria o ideal. 
 
 ### link para o projeto 
-- https://felpcd.github.io/SiteAndroid/ 
+-  https://felpcd.github.io/ProjetoAndroid/
